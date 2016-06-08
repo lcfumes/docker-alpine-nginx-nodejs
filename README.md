@@ -2,10 +2,8 @@
 
 ### Containers ###
 
-Alpine 3.3
-
-Nginx
-
-NodeJS
+* Alpine 3.3
+* Nginx
+* NodeJS
 
 
